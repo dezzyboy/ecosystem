@@ -1,1 +1,13 @@
-{"version":"5","dialect":"pg","entries":[]}
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1710446962853,
+      "tag": "0000_boring_switch",
+      "breakpoints": true
+    }
+  ]
+}
